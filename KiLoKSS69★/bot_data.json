@@ -1,0 +1,59 @@
+{
+  "carts": {
+    "8487904064": [],
+    "8251869795": [],
+    "1148740361": [],
+    "1148740361": []
+  },
+  "orders": {
+    "1148740361": [
+      {
+        "id": 2,
+        "items": [
+          {
+            "name": "зипка с балаклавой =",
+            "price": 1600,
+            "size": "а4",
+            "quantity": 1
+          }
+        ],
+        "total": 1600,
+        "customer_name": "нико",
+        "customer_phone": "89001112233",
+        "customer_address": "тверь треха",
+        "shipping_method": "СДЭК",
+        "payment_method": "Карта",
+        "status": "В обработке",
+        "date": "28.10.2025 10:21"
+      }
+    ],
+    "1148740361": [
+      {
+        "id": 3,
+        "items": [
+          {
+            "name": "зипка с балаклавой ",
+            "price": 1700,
+            "size": "S",
+            "quantity": 1
+          },
+          {
+            "name": "зипка с балаклавой =",
+            "price": 1600,
+            "size": "XXL",
+            "quantity": 1
+          }
+        ],
+        "total": 3300,
+        "customer_name": "Иванов иван Иванович",
+        "customer_phone": "89066501179",
+        "customer_address": "тверь чайковская 9",
+        "shipping_method": "СДЭК",
+        "payment_method": "Карта",
+        "status": "В обработке",
+        "date": "28.10.2025 11:06"
+      }
+    ]
+  },
+  "order_counter": 4
+}
